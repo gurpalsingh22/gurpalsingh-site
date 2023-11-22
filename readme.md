@@ -1,0 +1,2 @@
+This is a portfolio website of Gurpal Singh.
+He is working as a developer in Newgen Software currently and is working on business process management tools and technologies. He is also passionate about web development.
